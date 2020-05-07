@@ -25,7 +25,6 @@ namespace Task_1._2
             }
             else
                 Console.WriteLine("Треугольник не равносторонний");
-
             Console.ReadKey();
         }
     }
